@@ -27,7 +27,7 @@
 
 ### visite o projeto em:
 
-Solar System: 
+Shopping-Cart: https://shopping-cart-five-gamma.vercel.app/
 
 
 <!-- Sobre o Projeto -->
